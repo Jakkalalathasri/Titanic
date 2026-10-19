@@ -18,4 +18,5 @@ The project uses a CSV file containing Titanic passenger data.
 
 ## Author
 Lathasri Jakkala
+GitHub: https://github.com/JakkalaLathasri
 
